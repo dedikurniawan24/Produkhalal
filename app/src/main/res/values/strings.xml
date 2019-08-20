@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Produk halal</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="keterangan" />
+    <string name="belum_ada_data_yang_ditampilkan" />
+    <string name="nama_produk_nama_produsen_nomor_sertifikat" />
+    <string name="pencarian" />
+    <string name="nama_produk" />
+    <string name="produsen" />
+    <string name="nama_produsen" />
+    <string name="nomor_sertifikat" />
+    <string name="berlaku_hingga" />
+    <string name="_27_september_2018" />
+    <string name="_00090000300799" />
+    <string name="bagikan" />
+</resources>
